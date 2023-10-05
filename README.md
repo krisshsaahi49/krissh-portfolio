@@ -1,2 +1,4 @@
 # krissh-portfolio
-My Portfolio
+My Portfolio - Created using NextJs and Tailwind with Parallax affect
+
+
